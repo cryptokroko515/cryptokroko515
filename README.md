@@ -8,6 +8,11 @@
 
 Feel free to help me a hand. Furthermore i get errors with some dependencies. 
 
+On my github you see a selection of repositories i am currently investigating. 
+
+Working scripts :
+https://github.com/leoncvlt A great script for the Kraken exchange (portfolio management). All credits to Leonardo for sharing this.
+ 
 
 <!---
 cryptokroko515/cryptokroko515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
