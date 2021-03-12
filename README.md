@@ -1,4 +1,4 @@
-- 👋 Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto scripts and bots for trading and portfolio management. I run these on my raspberry pi 3B+.
+Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto scripts and bots for trading and portfolio management. I run these on my raspberry pi 3B+.
 Not familiar with Python i just followed some guidance about a script. Unfortunately i got a lot of errors. Mostly due to the fact that 'older' scripts use a way to connect to CoinMarketCap that currently does not work anymore. I am not yet succesful in changing scripts to working scripts yet as i am a total beginner.
 
 Feel free to help me a hand. Furthermore i get errors with some dependencies. I do not know whay causes this, maybe the raspberry pi?
