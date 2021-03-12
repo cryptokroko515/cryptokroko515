@@ -5,6 +5,7 @@ Not familiar with Python i just followed some guidance about a script. Unfortuna
 Feel free to give me a hand. On my github you see a selection of repositories i am currently researching to see if i can get them to work.
 
 **Portfolio Management :**
+
 https://github.com/leoncvlt Great script for the Kraken exchange. Credits to Leonardo for sharing this, please buy him coffee if you use it.
 
 
