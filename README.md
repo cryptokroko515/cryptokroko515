@@ -9,7 +9,7 @@ I just take the time to see if and how it works.
 **Portfolio Management :**
 https://github.com/leoncvlt Great script for the Kraken exchange. Credits to Leonardo for sharing this, please buy him coffee if you use it.
 
-Trading Bots :
+**Trading Bots :**
 
 # Looking for :
 A script for Binance that can do a portfolio management (top 10, 15 or 20), preferably using marketcap. If i can set this up to run every month or so this would be perfect.
