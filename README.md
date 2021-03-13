@@ -2,7 +2,7 @@ Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto scri
 
 Not familiar with Python i just followed some guidance about a script. Unfortunately i got a lot of errors. Mostly due to the fact that 'older' scripts use a way to connect to CoinMarketCap that currently does not work anymore. I am not yet succesful in changing scripts to working scripts.
 
-Feel free to give me a hand. On my github you see a selection. I take the time to see if and how it works. 
+Feel free to give me a hand. On my github you see a selection Made by others. I take the time to see if and how it works. 
 
 **Portfolio Management :**
 
