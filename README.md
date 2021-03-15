@@ -1,7 +1,10 @@
 # Personal
-Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto scripts/bots for portfolio management. I run these on my raspberry pi 3B+ with the latest Raspbian and updates.
+Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto and the use of scripts/bots for portfolio management. I run these on my raspberry pi 3B+ with the latest Raspbian and updates. I am also looking into raspiblitz and will probably make this my next raspi project!
 
-Not familiar with Python i just followed some guidance about a script. Unfortunately i got a lot of errors. Mostly due to the fact that 'older' scripts use a way to connect to CoinMarketCap that currently does not work anymore. I am not yet succesful in changing scripts to working scripts.
+Project #1 Pihole up and running
+Project #2 Still ongoing : finding cool scripts for portfolio management
+
+Not familiar with Python i just followed some guidance about a script. Unfortunately i got a lot of errors. Mostly due to the fact that 'older' scripts use a way to connect to CoinMarketCap that currently does not work anymore. I am not yet succesful in changing scripts to working scripts. I do however have an api key from CoinMarketCap. But how do i make scripts working again?
 
 Feel free to give me a hand. On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works. 
 
