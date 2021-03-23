@@ -8,6 +8,9 @@ Not familiar with Python i just followed some guidance about a script. Unfortuna
 
 Feel free to give me a hand. On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works. 
 
+# Disclaimer
+I am not a qualified licensed investment advisor and I don't have any professional finance experience. Everything you find here is for use at your own risk. 
+
 # **Portfolio Management :**
 https://github.com/leoncvlt Great script for the Kraken exchange. Credits to Leonardo for sharing this, please buy him coffee if you use it.
 
