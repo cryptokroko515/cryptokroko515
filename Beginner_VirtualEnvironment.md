@@ -2,7 +2,7 @@
 - Great tip : https://explainshell.com/ 
 - All is provided without any guarantee. Use at your own risk.
 
-Assumptions : Raspberry Pi3B+, Raspbian (could and should work on other models)
+Assumptions : Raspberry Pi 3B+, Raspbian (could and should work on other models)
 
 ## Installation & Requirements
 
