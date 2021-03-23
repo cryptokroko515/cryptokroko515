@@ -1,8 +1,8 @@
-# Readme for beginners, how to set up a "Python Virtual environment". I am a beginner, so if you see anything wrong, let me know. 
-# Great tip : https://explainshell.com/ 
-# All is provided without any guarantee. I am not a financial advisor. Use at your own risk.
+Readme for beginners, how to set up a "Python Virtual environment". I am a beginner, so if you see anything wrong, let me know. 
+Great tip : https://explainshell.com/ 
+All is provided without any guarantee. I am not a financial advisor. Use at your own risk.
 
-# Assumptions : Raspberry Pi3B+, Raspbian (could and should work on other models)
+Assumptions : Raspberry Pi3B+, Raspbian (could and should work on other models)
 
 ## Installation & Requirements
 
