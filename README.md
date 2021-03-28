@@ -1,5 +1,5 @@
 # Personal
-Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto and the use of scripts/bots for portfolio management. I run these on my raspberry pi 3B+ and 4 with the latest Raspbian and updates. 
+Hi, I’m cryptokroko515 - Welcome to my Github. I’m interested in crypto and the use of scripts for easy portfolio management. I run these on my raspberry pi 3B+ and 4 with the latest Raspbian and updates. 
 
 Project #1 Pihole up and running - Adblocker 
 Project #2 RaspiBlitz up and running - This is a very cool project to do. 
@@ -18,7 +18,7 @@ https://github.com/leoncvlt Great script for the Kraken exchange. Credits to Leo
 
 
 # Looking for :
-A script for Binance that can do a portfolio management (top 10, 15 or 20), preferably using marketcap. If i can set this up to run every month or so this would be perfect.
+A script for Binance that can do a automated portfolio management (top 10, 15 or 20), preferably using marketcap. If i can set this up to run every month or so this would be perfect. Still have not found it, so if you know of a useful script, let me know :)
 
 
 <!---
