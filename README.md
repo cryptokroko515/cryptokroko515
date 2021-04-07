@@ -10,9 +10,8 @@ Not familiar with Python i just followed some guidance about a script. Unfortuna
 Feel free to give me a hand. On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works. 
 
 #### **Portfolio Management :** _tested and found working_
-https://github.com/leoncvlt Great script for the Kraken exchange.
-
-https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.  
+* https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange.
+* https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.  
 
 #### Looking for :
 A script for **Binance** that can do a **automated portfolio management** (top 10, 15 or 20), preferably using marketcap. If i can set this up to run every month or so this would be perfect. Still have not found it, so if you know of a useful script, let me know :)
