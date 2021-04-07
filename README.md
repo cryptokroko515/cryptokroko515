@@ -1,5 +1,5 @@
 ### Personal
-Hi, I’m **cryptokroko515** - Welcome to my Github. I’m interested in **crypto** and the use of scripts for easy portfolio management. I run these on my raspberry pi 3B+ and 4 with the latest Raspbian and updates. Also checking out some other cool projects. 
+Hi, I’m **cryptokroko515** - Welcome to my Github. I’m interested in **cryptocurrencies** and the use of scripts for easy crypto portfolio management. I run these on my raspberry pi 3B+ and 4. Also checking out some other cool projects that i stumble upon. 
 
 * Project #1 _Pihole up and running - Adblocker_ 
 * Project #2 _RaspiBlitz up and running - This is a very cool project to do. Easy setup, thanks Rootzoll!_
