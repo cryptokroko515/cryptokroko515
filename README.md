@@ -14,7 +14,7 @@ Feel free to give me a hand. On my github you see a selection made by others (al
 * https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.
 
 #### Looking for :
-A script for **Binance Exchange** that can do a **automated portfolio management** (top 10, 15 or 20), preferably using marketcap and some sort of threshold. Somewhat like cryptodex. Still have not found it here, so if you know of a useful script, let me know :)
+A script for **Binance Exchange** that can do an **automated portfolio management** (top 10, 15 or 20), preferably using marketcap and some sort of threshold. Somewhat like cryptodex. Still have not found it here, so if you know of a useful script, let me know :)
 
 ##### Disclaimer
 I am not a qualified licensed investment advisor and I don't have any professional finance experience. What i find useful can be of no use for you. Use everything provided at YOUR OWN RISK! I have no responsibility for any loss or hardship incurred directly or indirectly.
