@@ -10,13 +10,13 @@ Not familiar with Python i just followed some guidance about a script. Unfortuna
 Feel free to give me a hand. On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works. 
 
 #### **Portfolio Management :** _tested and found working_
-* https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap.
+* https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap. 
 * https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.
 
 * # Currently TESTING # 
-* https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and als the option to make ETF's and automated portfolio balancing. 
+* https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and also the option to make ETF's and automated portfolio balancing. This seems pretty cool. 
 
-#### Looking for :
+#### Looking for (unless we have a winner with CryptoETF):
 A script for **Binance Exchange** that can do an **automated portfolio management** (top 10, 15 or 20), preferably using marketcap and some sort of threshold. Somewhat like cryptodex. Still have not found it here, so if you know of a useful script, let me know :)
 
 ##### Disclaimer
