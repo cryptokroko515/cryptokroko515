@@ -12,7 +12,9 @@ Feel free to give me a hand. On my github you see a selection made by others (al
 #### **Portfolio Management :** _tested and found working_
 * https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap.
 * https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.
-* ## Currently TESTING ## https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and als the option to make ETF's and automated portfolio balancing. 
+
+* # Currently TESTING # 
+* https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and als the option to make ETF's and automated portfolio balancing. 
 
 #### Looking for :
 A script for **Binance Exchange** that can do an **automated portfolio management** (top 10, 15 or 20), preferably using marketcap and some sort of threshold. Somewhat like cryptodex. Still have not found it here, so if you know of a useful script, let me know :)
