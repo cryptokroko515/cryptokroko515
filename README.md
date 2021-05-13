@@ -13,7 +13,7 @@ Feel free to give me a hand. On my github you see a selection made by others (al
 * https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap. 
 * https://github.com/Daniel-Wang/librio Easy to set up portfolio script for Binance. Fill in your preferred portfolio and run the script.
 
-* # Currently TESTING # 
+### Currently TESTING ### 
 * https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and also the option to make ETF's and automated portfolio balancing. This seems pretty cool. 
 
 #### Looking for (unless we have a winner with CryptoETF):
