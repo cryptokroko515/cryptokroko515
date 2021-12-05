@@ -1,4 +1,4 @@
-### Personal
+## Personal
 Hi, I’m **cryptokroko515** - Welcome to my Github. I’m interested in **cryptocurrencies** and the use of scripts for easy crypto portfolio management. I run these on my raspberry pi 3B+ and 4. Also checking out some other cool projects that i stumble upon. 
 
 * Projects
@@ -9,10 +9,10 @@ On my github you see a selection made by others (all credits go out to their bui
 
 #### **Portfolio Management :** 
 
-# Kraken
+### Kraken
 * https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap. Please buy Leonardo a coffee. This script works perfectly.
 
-# Binance
+### Binance
 * https://github.com/AmosHason/BinanCCi Allright this looks promising. Going to check this out soon. 
 * https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and also the option to make ETF's and automated portfolio balancing. This seems pretty cool. 
 
