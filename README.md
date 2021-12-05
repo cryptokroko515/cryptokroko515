@@ -5,7 +5,7 @@ Hi, I’m **cryptokroko515** - Welcome to my Github. I’m interested in **crypt
 * _Pihole - Adblocker
 * _RaspiBlitz - This is a very cool project to do. Easy setup, thanks Rootzoll!_
 
-On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works to get to know code. 
+On my github you see a selection made by others (all credits go out to their builders, there are some very cool projects here, but i have not tested all). I just take the time to see if and how it works to get to know code. Focus lies on ETF, Balance, Crypto portfolio.
 
 #### **Portfolio Management :** 
 * https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap. 
