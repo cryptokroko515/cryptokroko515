@@ -11,11 +11,6 @@ On my github you see a selection made by others (all credits go out to their bui
 ### Kraken
 * https://github.com/leoncvlt/cryptodex Great script for the Kraken exchange with marketcap. Please buy Leonardo a coffee. This script works perfectly.
 
-### Binance
-* https://github.com/AmosHason/BinanCCi Allright this looks promising. Going to check this out soon. 
-* https://github.com/kparichay/CryptoETF A script with a lot of options for Binance and also the option to make ETF's and automated portfolio balancing. This seems pretty cool. 
-
-
 
 ##### Disclaimer
 I am not a qualified licensed investment advisor and I don't have any professional finance experience. What i find useful can be of no use for you. Use everything provided at YOUR OWN RISK! I have no responsibility for any loss or hardship incurred directly or indirectly.
